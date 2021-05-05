@@ -1,5 +1,13 @@
 $pimary_color: lightgreen;
+$back_color: lightcoral;
 
 h1 {
     color: $pimary_color;
+}
+button {
+    color: $pimary_color;
+}
+
+div {
+    background-color: $back_color;
 }
